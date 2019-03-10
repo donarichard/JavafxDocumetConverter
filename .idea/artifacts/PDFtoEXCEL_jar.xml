@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact name="PDFtoEXCEL:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PDFtoEXCEL_jar</output-path>
+    <root id="root">
+      <element id="archive" name="PDFtoEXCEL.jar">
+        <element id="module-output" name="PDFtoEXCEL" />
+      </element>
+      <element id="library" level="project" name="client-combined-3.141.59" />
+      <element id="library" level="project" name="byte-buddy-1.8.15" />
+    </root>
+  </artifact>
+</component>

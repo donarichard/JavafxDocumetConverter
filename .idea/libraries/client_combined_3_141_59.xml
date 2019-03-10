@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="client-combined-3.141.59">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/depend_lib/client-combined-3.141.59.jar!/" />
+      <root url="jar://$PROJECT_DIR$/depend_lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/depend_lib/fontbox-2.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/depend_lib/org.json.jar!/" />
+      <root url="jar://$PROJECT_DIR$/depend_lib/pdfbox-2.0.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/depend_lib/poi-3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/depend_lib/poi-ooxml-3.5-beta5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/depend_lib/client-combined-3.141.59-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
